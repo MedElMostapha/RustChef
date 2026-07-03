@@ -1,5 +1,7 @@
 # RustChef - Technical Report
 
+**Repository:** [https://github.com/MedElMostapha/RustChef](https://github.com/MedElMostapha/RustChef)
+
 ## Overview
 
 RustChef is a command-line tool inspired by [CyberChef](https://gchq.github.io/CyberChef/), the "Cyber Swiss Army Knife". It provides 16 data transformation, encoding, decoding, hashing, extraction, and analysis operations from the terminal. The tool is written in Rust and follows a modular architecture with a clean CLI interface.
