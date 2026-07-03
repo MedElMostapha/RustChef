@@ -1,0 +1,15 @@
+[package]
+name = "rustchef"
+version = "0.1.0"
+edition = "2021"
+description = "A CyberChef-inspired CLI tool for data transformations"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+base64 = "0.22"
+percent-encoding = "2"
+sha2 = "0.10"
+sha1 = "0.10"
+md-5 = "0.10"
+regex = "1"
+anyhow = "1"

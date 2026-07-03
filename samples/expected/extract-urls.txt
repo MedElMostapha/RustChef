@@ -1,0 +1,4 @@
+ftp://backup.internal:2121
+http://localhost:8080
+https://api.rustchef.example.com/v2
+https://rustchef.example.com

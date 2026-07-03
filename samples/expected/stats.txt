@@ -1,0 +1,8 @@
+Character count:  767
+Word count:       93
+Line count:       27
+Byte count:       767
+Letter count:     471
+Digit count:      80
+Whitespace count: 97
+Punctuation count: 119

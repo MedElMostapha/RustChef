@@ -1,0 +1,27 @@
+Welcome to RustChef - a CyberChef inspired CLI tool!
+
+Contact information:
+- Email: admin@rustchef.example.com
+- Email: support@example.org
+- Email: dev-team@rustchef.io
+
+Server infrastructure:
+- Web: https://rustchef.example.com
+- API: https://api.rustchef.example.com/v2
+- Backup: ftp://backup.internal:2121
+- Dev: http://localhost:8080
+
+Network addresses:
+- Main server: 192.168.1.100
+- Backup server: 10.0.0.50
+- Database: 172.16.0.10
+- DNS: 8.8.8.8
+- IPv6: 2001:0db8:85a3:0000:0000:8a2e:0370:7334
+
+Some special characters: !@#$%^&*()_+-=[]{}|;':",./<>?~
+Numbers: 42, 12345, 3.14159, -7, 0xFF
+
+A longer paragraph for entropy and statistics.
+The quick brown fox jumps over the lazy dog.
+Pack my box with five dozen liquor jugs.
+How vexingly quick daft zebras jump!
