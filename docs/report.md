@@ -164,6 +164,7 @@ cargo clippy            # zero warnings
 
 | Item | Location |
 |------|----------|
+| GitHub repository | [https://github.com/MedElMostapha/RustChef](https://github.com/MedElMostapha/RustChef) |
 | Rust source code | `src/` |
 | Cargo manifest | `Cargo.toml`, `Cargo.lock` |
 | Integration tests | `tests/integration.rs` |
